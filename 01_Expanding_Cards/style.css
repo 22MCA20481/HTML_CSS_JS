@@ -26,11 +26,12 @@ body {
 }
 .panel {
   background-size: auto 100%;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 50px;
-  color: rgb(22, 67, 94);
+  color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
   cursor: pointer;
   flex: 0.5;
